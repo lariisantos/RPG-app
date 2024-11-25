@@ -1,6 +1,6 @@
 # tormenta_20
 
-A new Flutter project.
+an application to manage the creation and participation of a tabletop RPG with friends 🎲
 
 ## Getting Started
 
